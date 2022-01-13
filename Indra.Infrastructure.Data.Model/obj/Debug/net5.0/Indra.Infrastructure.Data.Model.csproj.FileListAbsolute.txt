@@ -1,0 +1,12 @@
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Data.Model\bin\Debug\net5.0\Indra.Infrastructure.Data.Model.deps.json
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Data.Model\bin\Debug\net5.0\Indra.Infrastructure.Data.Model.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Data.Model\bin\Debug\net5.0\ref\Indra.Infrastructure.Data.Model.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Data.Model\bin\Debug\net5.0\Indra.Infrastructure.Data.Model.pdb
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Data.Model\obj\Debug\net5.0\Indra.Infrastructure.Data.Model.csproj.AssemblyReference.cache
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Data.Model\obj\Debug\net5.0\Indra.Infrastructure.Data.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Data.Model\obj\Debug\net5.0\Indra.Infrastructure.Data.Model.AssemblyInfoInputs.cache
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Data.Model\obj\Debug\net5.0\Indra.Infrastructure.Data.Model.AssemblyInfo.cs
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Data.Model\obj\Debug\net5.0\Indra.Infrastructure.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Data.Model\obj\Debug\net5.0\Indra.Infrastructure.Data.Model.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Data.Model\obj\Debug\net5.0\ref\Indra.Infrastructure.Data.Model.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Data.Model\obj\Debug\net5.0\Indra.Infrastructure.Data.Model.pdb

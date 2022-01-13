@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Indra.Infrastructure.Data.Model/1.0.0": {
+        "runtime": {
+          "Indra.Infrastructure.Data.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Indra.Infrastructure.Data.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

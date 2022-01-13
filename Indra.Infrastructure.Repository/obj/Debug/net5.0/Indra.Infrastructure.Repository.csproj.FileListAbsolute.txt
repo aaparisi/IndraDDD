@@ -1,0 +1,17 @@
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\bin\Debug\net5.0\Indra.Infrastructure.Repository.deps.json
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\bin\Debug\net5.0\Indra.Infrastructure.Repository.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\bin\Debug\net5.0\ref\Indra.Infrastructure.Repository.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\bin\Debug\net5.0\Indra.Infrastructure.Repository.pdb
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\bin\Debug\net5.0\Indra.Infrastructure.Data.Model.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\bin\Debug\net5.0\Indra.Infrastructure.Persistence.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\bin\Debug\net5.0\Indra.Infrastructure.Data.Model.pdb
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\bin\Debug\net5.0\Indra.Infrastructure.Persistence.pdb
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\obj\Debug\net5.0\Indra.Infrastructure.Repository.csproj.AssemblyReference.cache
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\obj\Debug\net5.0\Indra.Infrastructure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\obj\Debug\net5.0\Indra.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\obj\Debug\net5.0\Indra.Infrastructure.Repository.AssemblyInfo.cs
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\obj\Debug\net5.0\Indra.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\obj\Debug\net5.0\Indra.Infrastructure.Repository.csproj.CopyComplete
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\obj\Debug\net5.0\Indra.Infrastructure.Repository.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\obj\Debug\net5.0\ref\Indra.Infrastructure.Repository.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Infrastructure.Repository\obj\Debug\net5.0\Indra.Infrastructure.Repository.pdb

@@ -1,0 +1,15 @@
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\bin\Debug\net5.0\Indra.Domain.Entities.deps.json
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\bin\Debug\net5.0\Indra.Domain.Entities.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\bin\Debug\net5.0\ref\Indra.Domain.Entities.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\bin\Debug\net5.0\Indra.Domain.Entities.pdb
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\bin\Debug\net5.0\Indra.Infrastructure.Data.Model.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\bin\Debug\net5.0\Indra.Infrastructure.Data.Model.pdb
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\obj\Debug\net5.0\Indra.Domain.Entities.csproj.AssemblyReference.cache
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\obj\Debug\net5.0\Indra.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\obj\Debug\net5.0\Indra.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\obj\Debug\net5.0\Indra.Domain.Entities.AssemblyInfo.cs
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\obj\Debug\net5.0\Indra.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\obj\Debug\net5.0\Indra.Domain.Entities.csproj.CopyComplete
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\obj\Debug\net5.0\Indra.Domain.Entities.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\obj\Debug\net5.0\ref\Indra.Domain.Entities.dll
+C:\Users\aaparisi\Downloads\IndraDDD-master\Indra.Domain.Entities\obj\Debug\net5.0\Indra.Domain.Entities.pdb

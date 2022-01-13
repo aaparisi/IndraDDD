@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Indra.Web.Dto/1.0.0": {
+        "dependencies": {
+          "Indra.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Indra.Web.Dto.dll": {}
+        }
+      },
+      "Indra.Domain.Entities/1.0.0": {
+        "dependencies": {
+          "Indra.Infrastructure.Data.Model": "1.0.0"
+        },
+        "runtime": {
+          "Indra.Domain.Entities.dll": {}
+        }
+      },
+      "Indra.Infrastructure.Data.Model/1.0.0": {
+        "runtime": {
+          "Indra.Infrastructure.Data.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Indra.Web.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Indra.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Indra.Infrastructure.Data.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

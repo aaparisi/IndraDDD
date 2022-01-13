@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Indra.Domain.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Indra.Infrastructure.Data.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Indra.Domain.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Indra.Domain.Entities.dll": {}
+        }
+      },
+      "Indra.Infrastructure.Data.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Indra.Infrastructure.Data.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Indra.Infrastructure.Data.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Indra.Domain.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Indra.Domain.Entities/Indra.Domain.Entities.csproj",
+      "msbuildProject": "../Indra.Domain.Entities/Indra.Domain.Entities.csproj"
+    },
+    "Indra.Infrastructure.Data.Model/1.0.0": {
+      "type": "project",
+      "path": "../Indra.Infrastructure.Data.Model/Indra.Infrastructure.Data.Model.csproj",
+      "msbuildProject": "../Indra.Infrastructure.Data.Model/Indra.Infrastructure.Data.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Indra.Domain.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\aaparisi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\aaparisi\\Downloads\\IndraDDD-master\\Indra.Web.Dto\\Indra.Web.Dto.csproj",
+      "projectName": "Indra.Web.Dto",
+      "projectPath": "C:\\Users\\aaparisi\\Downloads\\IndraDDD-master\\Indra.Web.Dto\\Indra.Web.Dto.csproj",
+      "packagesPath": "C:\\Users\\aaparisi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aaparisi\\Downloads\\IndraDDD-master\\Indra.Web.Dto\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\aaparisi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\aaparisi\\Downloads\\IndraDDD-master\\Indra.Domain.Entities\\Indra.Domain.Entities.csproj": {
+              "projectPath": "C:\\Users\\aaparisi\\Downloads\\IndraDDD-master\\Indra.Domain.Entities\\Indra.Domain.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
